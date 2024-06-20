@@ -4,6 +4,12 @@ Team Members:
 - Nuh Furkan Erturk
 - Add you name here
 
+## Install Repo
+Run following commands to download
+```bash
+
+```
+
 ## Set up
 
 Run following commands (on windows)
