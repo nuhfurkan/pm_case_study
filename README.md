@@ -1,17 +1,9 @@
 # PM Case Study: Hot Predictions
-
 Team Members:
 - Nuh Furkan Erturk
 - Add you name here
 
-## Install Repo
-Run following commands to download
-```bash
-
-```
-
 ## Set up
-
 Run following commands (on windows)
 ```bash
 python -m venv pm_case_study_env
